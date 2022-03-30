@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/removebg/static/css/main.6a6eb8ee.css",
+    "main.js": "/removebg/static/js/main.cc17272a.js",
+    "static/js/787.bda22d75.chunk.js": "/removebg/static/js/787.bda22d75.chunk.js",
+    "static/media/products_no_background.png": "/removebg/static/media/products_no_background.f9415d951603dee75a17.png",
+    "static/media/cars.jpg": "/removebg/static/media/cars.cc5170d28a43d0c09c32.jpg",
+    "static/media/home.png": "/removebg/static/media/home.b2c89ca6b1694bdb4d92.png",
+    "static/media/cars_removebg.png": "/removebg/static/media/cars_removebg.56886b9c85fe8278de4d.png",
+    "static/media/original.jpg": "/removebg/static/media/original.b0e83923130fc241f076.jpg",
+    "static/media/log.png": "/removebg/static/media/log.b5a79c1ca0559b3ad11c.png",
+    "static/media/persons3-nobg.png": "/removebg/static/media/persons3-nobg.c2e509aa93db405015c0.png",
+    "static/media/animals-removebg.png": "/removebg/static/media/animals-removebg.c1471394d4c4d953eb00.png",
+    "static/media/graphics_01.png": "/removebg/static/media/graphics_01.cd6bfaa57fbce5d7dbe0.png",
+    "static/media/persons3.jpg": "/removebg/static/media/persons3.e7947905d2d71677265b.jpg",
+    "static/media/graphics_05.png": "/removebg/static/media/graphics_05.5c07befca84d4ddb542f.png",
+    "static/media/animals.jpg": "/removebg/static/media/animals.909903b5d0f581275d0a.jpg",
+    "static/media/Integrates.jpg": "/removebg/static/media/Integrates.7abc59ec4ff4e73b8512.jpg",
+    "static/media/logos_transparent.png": "/removebg/static/media/logos_transparent.917195dad8f813710668.png",
+    "static/media/01_cars4.jpg": "/removebg/static/media/01_cars4.98917fa70ae2f5762b87.jpg",
+    "static/media/01_cars1.jpg": "/removebg/static/media/01_cars1.850bf04c008631bc630f.jpg",
+    "static/media/01_cars3.jpg": "/removebg/static/media/01_cars3.0ce004319e90dc4221ec.jpg",
+    "static/media/04-person.jpg": "/removebg/static/media/04-person.f12ea3b5ea8481f793a5.jpg",
+    "static/media/01_cars5.jpg": "/removebg/static/media/01_cars5.b29d73978ad15d50dda2.jpg",
+    "static/media/04-cat.jpg": "/removebg/static/media/04-cat.722bb16578562c03b971.jpg",
+    "static/media/05-person.jpg": "/removebg/static/media/05-person.74c0f9ea3f0429047443.jpg",
+    "static/media/graphics_04.png": "/removebg/static/media/graphics_04.14844152ac84283d0e4d.png",
+    "static/media/03-person.jpg": "/removebg/static/media/03-person.834c1ee2f087a2356b96.jpg",
+    "static/media/01-person.jpg": "/removebg/static/media/01-person.2034606202f1a8aae62f.jpg",
+    "static/media/03-cat.jpg": "/removebg/static/media/03-cat.db065732e4955dd8f235.jpg",
+    "static/media/02-shirt.png": "/removebg/static/media/02-shirt.5d5ccd1be90aca6cb27d.png",
+    "static/media/img1.svg": "/removebg/static/media/img1.70bb8440bd06f0733d81f66f41ebb281.svg",
+    "static/media/logo.svg": "/removebg/static/media/logo.99c93757f030627aa701941c95ac4bde.svg",
+    "index.html": "/removebg/index.html",
+    "main.6a6eb8ee.css.map": "/removebg/static/css/main.6a6eb8ee.css.map",
+    "main.cc17272a.js.map": "/removebg/static/js/main.cc17272a.js.map",
+    "787.bda22d75.chunk.js.map": "/removebg/static/js/787.bda22d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6eb8ee.css",
+    "static/js/main.cc17272a.js"
+  ]
+}
