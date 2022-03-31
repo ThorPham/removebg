@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/removebg/static/css/main.a2503c77.css",
-    "main.js": "/removebg/static/js/main.316edabd.js",
+    "main.css": "/removebg/static/css/main.25a6786c.css",
+    "main.js": "/removebg/static/js/main.2665fe00.js",
     "static/js/787.bda22d75.chunk.js": "/removebg/static/js/787.bda22d75.chunk.js",
     "static/media/2.jpg": "/removebg/static/media/2.a63cb318209b6127b2fd.jpg",
     "static/media/4.jpg": "/removebg/static/media/4.93be2beefdf011adb9c4.jpg",
@@ -21,7 +21,10 @@
     "static/media/graphics_05.png": "/removebg/static/media/graphics_05.5c07befca84d4ddb542f.png",
     "static/media/animals.jpg": "/removebg/static/media/animals.909903b5d0f581275d0a.jpg",
     "static/media/Home.jpg": "/removebg/static/media/Home.dfed0e5051acb1f4ba58.jpg",
+    "static/media/gimp.jpg": "/removebg/static/media/gimp.b616541b420af1b31416.jpg",
+    "static/media/sketch.jpg": "/removebg/static/media/sketch.f7d8ab425742ae32f9b5.jpg",
     "static/media/768px-adobe_photoshop_cc_icon-svg.png": "/removebg/static/media/768px-adobe_photoshop_cc_icon-svg.3f0526d5b4b40fd616a3.png",
+    "static/media/figma.jpg": "/removebg/static/media/figma.d21da44d3370692e410f.jpg",
     "static/media/Integrates.jpg": "/removebg/static/media/Integrates.7abc59ec4ff4e73b8512.jpg",
     "static/media/android-new-2019-logo-3cd3bc571c-seeklogo-com.png": "/removebg/static/media/android-new-2019-logo-3cd3bc571c-seeklogo-com.eab908c73ddb83fe6ce0.png",
     "static/media/logos_transparent.png": "/removebg/static/media/logos_transparent.917195dad8f813710668.png",
@@ -45,12 +48,12 @@
     "static/media/api-commandline.svg": "/removebg/static/media/api-commandline.ea1876afd760d3e784af41d6718bdeb4.svg",
     "index.html": "/removebg/index.html",
     "static/media/cms.svg": "/removebg/static/media/cms.ea4fc002043a8e3927b6b442b202c3c9.svg",
-    "main.a2503c77.css.map": "/removebg/static/css/main.a2503c77.css.map",
-    "main.316edabd.js.map": "/removebg/static/js/main.316edabd.js.map",
+    "main.25a6786c.css.map": "/removebg/static/css/main.25a6786c.css.map",
+    "main.2665fe00.js.map": "/removebg/static/js/main.2665fe00.js.map",
     "787.bda22d75.chunk.js.map": "/removebg/static/js/787.bda22d75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2503c77.css",
-    "static/js/main.316edabd.js"
+    "static/css/main.25a6786c.css",
+    "static/js/main.2665fe00.js"
   ]
 }
