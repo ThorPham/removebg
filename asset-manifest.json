@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/removebg/static/css/main.4a91e722.css",
-    "main.js": "/removebg/static/js/main.a08bae9a.js",
+    "main.css": "/removebg/static/css/main.e017430c.css",
+    "main.js": "/removebg/static/js/main.346e1216.js",
     "static/js/787.bda22d75.chunk.js": "/removebg/static/js/787.bda22d75.chunk.js",
     "static/media/2.jpg": "/removebg/static/media/2.a63cb318209b6127b2fd.jpg",
     "static/media/4.jpg": "/removebg/static/media/4.93be2beefdf011adb9c4.jpg",
     "static/media/3.jpg": "/removebg/static/media/3.ef292a5b2b1ae15dc124.jpg",
     "static/media/1.jpg": "/removebg/static/media/1.a74d87945bfd73645f86.jpg",
+    "static/media/rbg-macos-app-icon-2x.png": "/removebg/static/media/rbg-macos-app-icon-2x.2804c546d14c6785b1f1.png",
     "static/media/products_no_background.png": "/removebg/static/media/products_no_background.f9415d951603dee75a17.png",
     "static/media/cars.jpg": "/removebg/static/media/cars.cc5170d28a43d0c09c32.jpg",
     "static/media/homeLogoRmBg.png": "/removebg/static/media/homeLogoRmBg.b2c89ca6b1694bdb4d92.png",
@@ -20,7 +21,9 @@
     "static/media/graphics_05.png": "/removebg/static/media/graphics_05.5c07befca84d4ddb542f.png",
     "static/media/animals.jpg": "/removebg/static/media/animals.909903b5d0f581275d0a.jpg",
     "static/media/Home.jpg": "/removebg/static/media/Home.dfed0e5051acb1f4ba58.jpg",
+    "static/media/768px-adobe_photoshop_cc_icon-svg.png": "/removebg/static/media/768px-adobe_photoshop_cc_icon-svg.3f0526d5b4b40fd616a3.png",
     "static/media/Integrates.jpg": "/removebg/static/media/Integrates.7abc59ec4ff4e73b8512.jpg",
+    "static/media/android-new-2019-logo-3cd3bc571c-seeklogo-com.png": "/removebg/static/media/android-new-2019-logo-3cd3bc571c-seeklogo-com.eab908c73ddb83fe6ce0.png",
     "static/media/logos_transparent.png": "/removebg/static/media/logos_transparent.917195dad8f813710668.png",
     "static/media/01_cars4.jpg": "/removebg/static/media/01_cars4.98917fa70ae2f5762b87.jpg",
     "static/media/01_cars1.jpg": "/removebg/static/media/01_cars1.850bf04c008631bc630f.jpg",
@@ -42,12 +45,12 @@
     "static/media/api-commandline.svg": "/removebg/static/media/api-commandline.ea1876afd760d3e784af41d6718bdeb4.svg",
     "index.html": "/removebg/index.html",
     "static/media/cms.svg": "/removebg/static/media/cms.ea4fc002043a8e3927b6b442b202c3c9.svg",
-    "main.4a91e722.css.map": "/removebg/static/css/main.4a91e722.css.map",
-    "main.a08bae9a.js.map": "/removebg/static/js/main.a08bae9a.js.map",
+    "main.e017430c.css.map": "/removebg/static/css/main.e017430c.css.map",
+    "main.346e1216.js.map": "/removebg/static/js/main.346e1216.js.map",
     "787.bda22d75.chunk.js.map": "/removebg/static/js/787.bda22d75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a91e722.css",
-    "static/js/main.a08bae9a.js"
+    "static/css/main.e017430c.css",
+    "static/js/main.346e1216.js"
   ]
 }
