@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/removebg/static/css/main.11e32604.css",
-    "main.js": "/removebg/static/js/main.d87e27b7.js",
+    "main.css": "/removebg/static/css/main.d883467e.css",
+    "main.js": "/removebg/static/js/main.189fae7c.js",
     "static/js/787.bda22d75.chunk.js": "/removebg/static/js/787.bda22d75.chunk.js",
     "static/media/2.jpg": "/removebg/static/media/2.a63cb318209b6127b2fd.jpg",
     "static/media/4.jpg": "/removebg/static/media/4.93be2beefdf011adb9c4.jpg",
     "static/media/3.jpg": "/removebg/static/media/3.ef292a5b2b1ae15dc124.jpg",
     "static/media/1.jpg": "/removebg/static/media/1.a74d87945bfd73645f86.jpg",
+    "static/media/profile.png": "/removebg/static/media/profile.7b48759eabfa4f432a0a.png",
     "static/media/rbg-macos-app-icon-2x.png": "/removebg/static/media/rbg-macos-app-icon-2x.2804c546d14c6785b1f1.png",
     "static/media/products_no_background.png": "/removebg/static/media/products_no_background.f9415d951603dee75a17.png",
     "static/media/cars.jpg": "/removebg/static/media/cars.cc5170d28a43d0c09c32.jpg",
@@ -50,12 +51,12 @@
     "static/media/facebook.svg": "/removebg/static/media/facebook.7fc8b4f66d9b9d8ef10efd448a841011.svg",
     "static/media/cms.svg": "/removebg/static/media/cms.ea4fc002043a8e3927b6b442b202c3c9.svg",
     "static/media/google.svg": "/removebg/static/media/google.df8e9f146b884d4046b877b679993039.svg",
-    "main.11e32604.css.map": "/removebg/static/css/main.11e32604.css.map",
-    "main.d87e27b7.js.map": "/removebg/static/js/main.d87e27b7.js.map",
+    "main.d883467e.css.map": "/removebg/static/css/main.d883467e.css.map",
+    "main.189fae7c.js.map": "/removebg/static/js/main.189fae7c.js.map",
     "787.bda22d75.chunk.js.map": "/removebg/static/js/787.bda22d75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11e32604.css",
-    "static/js/main.d87e27b7.js"
+    "static/css/main.d883467e.css",
+    "static/js/main.189fae7c.js"
   ]
 }
